@@ -135,5 +135,3 @@ house-price-prediction/
 ## 📄 License
 
 MIT License © [Tirth Chhatrala](https://github.com/TirthChhatrala)
-
----
